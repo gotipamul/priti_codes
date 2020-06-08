@@ -1,2 +1,2 @@
-# practice
+# PritiVasekar
 weekly_codes

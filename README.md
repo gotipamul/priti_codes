@@ -1,2 +1,2 @@
 # PritiVasekar
-weekly_codes
+Hackerrank_solutions
